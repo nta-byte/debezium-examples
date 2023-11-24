@@ -23,11 +23,11 @@ Before getting started, ensure you have the following prerequisites:
 └── debezium-server-sink-pubsub
     ├── README.md
     ├── config-mongodb
-    │   └── application.properties
+    │   └── application.properties
     ├── config-mysql
-    │   └── application.properties
+    │   └── application.properties
     ├── config-postgres
-    │   └── application.properties
+    │   └── application.properties
     └── docker-compose.yml
 ```
 
